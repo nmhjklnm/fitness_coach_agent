@@ -1,0 +1,30 @@
+# 个人隐私信息
+个人信息.md
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 笔记软件配置
+.obsidian/
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*~
+
+# 个人执行记录（如果包含敏感数据）
+# 取消下面的注释以忽略执行记录
+# 训练计划/*执行记录*.md
+# 饮食计划/*执行记录*.md
+
